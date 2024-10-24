@@ -110,7 +110,9 @@ CREATE TABLE `tblcontactusinfo` (
 --
 
 INSERT INTO `tblcontactusinfo` (`id`, `Address`, `EmailId`, `ContactNo`) VALUES
-(1, 'J&K Block, Laxmi Nagar', 'info@gmail.com', '8974561236');
+(1, 'J&K Block, Laxmi Nagar', 'glaxson@gmail.com', '8974561236');
+INSERT INTO `tblcontactusinfo` (`id`, `Address`, `EmailId`, `ContactNo`) VALUES
+('2', 'merces road', 'glaxson@gmail.com', '3456789210');
 
 -- --------------------------------------------------------
 
